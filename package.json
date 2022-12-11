@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "jsdoc": "^3.6.6",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.11.7",
